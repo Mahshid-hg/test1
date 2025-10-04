@@ -13,3 +13,9 @@
         align-items: center;
     }
 }
+
+
+.collapsible .active .material-icons{
+    transform: rotate(180deg);
+}
+
