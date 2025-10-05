@@ -19,3 +19,7 @@
     transform: rotate(180deg);
 }
 
+.striped tbody tr:hover{
+    background-color: #e3f2fd!important;
+}
+
